@@ -1,2 +1,2 @@
 # ICTE
-VBA code for omsk oil refining plant
+VBA code for Omsk oil refining plant

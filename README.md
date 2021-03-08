@@ -1,2 +1,2 @@
 # ICTE
-VBA code for Omsk oil refining plant
+VBA code for relocate from many templates like .xls in one table
